@@ -32,4 +32,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srvsinha/srvsinha.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
-[Email](srvsinha@vt.edu) | [Linkedin](https://www.linkedin.com/in/sourav-sinha-7a8380b8/) | [Instagram](https://www.instagram.com/srvsinha186/) | [Facebook](https://www.facebook.com/srvgr8/)
+[Email](mailto:srvsinha@vt.edu) | [Linkedin](https://www.linkedin.com/in/sourav-sinha-7a8380b8/) | [Instagram](https://www.instagram.com/srvsinha186/) | [Facebook](https://www.facebook.com/srvgr8/)
