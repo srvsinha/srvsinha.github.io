@@ -1,4 +1,7 @@
 ## Sourav Sinha
+Ph.D. Candidate and Graduate Reasearch Assistant @ Virginia Tech
+Aerospace Enginnering (Control Theory, Unmanned Aerial Systems)
+Previous: IIT Kanpur
 
 Visit my google scholar profile [here](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897).
 
