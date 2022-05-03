@@ -1,7 +1,8 @@
 ## Sourav Sinha
-Ph.D. Candidate and Graduate Reasearch Assistant @ Virginia Tech
-Aerospace Enginnering (Control Theory, Unmanned Aerial Systems)
-Previous: IIT Kanpur
+Aerospace Enginner (Control Theory, Unmanned Aerial Systems)
+**Current**: Ph.D. Candidate and GRA @ Virginia Tech 
+**Previous**: IIT Kanpur
+
 
 Visit my google scholar profile [here](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897).
 
@@ -27,12 +28,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srvsinha/srvsinha.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 [Email](mailto:srvsinha@vt.edu) | [Linkedin](https://www.linkedin.com/in/sourav-sinha-7a8380b8/) | [Instagram](https://www.instagram.com/srvsinha186/) | [Facebook](https://www.facebook.com/srvgr8/)
