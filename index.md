@@ -1,6 +1,6 @@
 ## Sourav Sinha
 >
-> Aerospace Enginner (Control Theory, Unmanned Aerial Systems)  \
+> Aerospace Engineer (Control Theory, Unmanned Aerial Systems)  \
 > **Current**: Ph.D. Candidate and GRA @ Virginia Tech  \
 > **Previous**: IIT Kanpur
 
