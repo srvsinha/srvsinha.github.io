@@ -5,7 +5,7 @@
 > **Previous**: IIT Kanpur
 
 
-Visit my google scholar profile [here](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897).
+Visit my google scholar profile [here](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897){:target="_blank" rel="noopener"}.
 
 
 ### Education
