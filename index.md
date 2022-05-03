@@ -5,7 +5,9 @@
 > **Previous**: IIT Kanpur
 
 
-Visit my Google Scholar profile [here](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897){:target="_blank" rel="noopener"}.
+Visit my Google Scholar profile [here](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897){:target="_blank" rel="noopener"}.  \
+
+ResearchGate [here](https://www.researchgate.net/profile/Sourav-Sinha-8)
 
 
 ### Education
