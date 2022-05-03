@@ -1,8 +1,7 @@
 ## Sourav Sinha
 
-You can use the [editor on GitHub](https://github.com/srvsinha/srvsinha.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Visit my google scholar profile [here](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Education
 
