@@ -1,15 +1,24 @@
 ## Sourav Sinha
-Aerospace Enginner (Control Theory, Unmanned Aerial Systems)
-**Current**: Ph.D. Candidate and GRA @ Virginia Tech 
-**Previous**: IIT Kanpur
+>
+> Aerospace Enginner (Control Theory, Unmanned Aerial Systems)  \
+> **Current**: Ph.D. Candidate and GRA @ Virginia Tech  \
+> **Previous**: IIT Kanpur
 
 
 Visit my google scholar profile [here](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897).
 
 
 ### Education
+#### Virginia Tech, *Blacksburg, US* (2019-23)
+>
+> Ph.D. in Aerospace Engineering \
+> GPA: 4.0/4.0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### IIT Kanpur, *Kanpur, India* (2014-19)
+>
+> Integrated B.Tech-M.Tech in Aerospace Engineering  \
+> GPA: 8.2/10.0 (B.Tech), 9.33/10.0 (M.Tech)
+
 
 ```markdown
 Syntax highlighted code block
