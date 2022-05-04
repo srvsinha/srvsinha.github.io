@@ -29,6 +29,8 @@
 Publication: **S. Sinha**, D. Muniraj, and M. Farhood, “LFT Representation of a Class of Nonlinear Systems: A Data-Driven 
 Approach,” *European Control Conference*, 2021. [link](https://ieeexplore.ieee.org/abstract/document/9655026) [arxiv](https://arxiv.org/abs/2112.12856)
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 ### 2. IEMI-based Actuator Attacks 
 Publication:  G.Y. Dayanikli, **S. Sinha**, D. Muniraj, R.M. Gerdes, M. Farhood, and M. Mina,  “Physical-Layer Attacks Against
 Pulse Width Modulation-Controlled Actuators,” *USENIX Security Symposium*, 2022. [link](https://www.usenix.org/conference/usenixsecurity22/presentation/dayanikli)
