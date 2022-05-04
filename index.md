@@ -45,7 +45,7 @@ in progress
 in progress
 
 ### 6. Development of a Novel Quadrotor Convertiplane UAS
-| ![](proto1.jpg){ width=50% } | 
+| ![](proto1.jpg) | 
 |:--:| 
 | *Space* |
 
