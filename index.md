@@ -47,14 +47,12 @@ in progress
 ```
 
 ### 6. Development of a Novel Quadrotor Convertiplane UAS
-```markdown
-in progress
-Publication 1: A. Abhishek, M. Krishna, **S. Sinha**, J. Bhowmik, and D.  Das, “Design, development and flight testing of a novel 
-quadrotor convertiplane unmanned air vehicle,” *Vertical Flight Society Annual Forum*, 2017.
+> Publication 1: A. Abhishek, M. Krishna, **S. Sinha**, J. Bhowmik, and D.  Das, “Design, development and flight testing of a novel 
+> quadrotor convertiplane unmanned air vehicle,” *Vertical Flight Society Annual Forum*, 2017.
 
-Publication 2: **S. Sinha**, N. Raj, A. Abhishek, and M. Kothari, “Flight dynamic modeling and control of a novel quadrotor convertiplane
- UAV,” *Vertical Flight Society Annual Forum*, 2018.
-```
+> Publication 2: **S. Sinha**, N. Raj, A. Abhishek, and M. Kothari, “Flight dynamic modeling and control of a novel quadrotor convertiplane
+> UAV,” *Vertical Flight Society Annual Forum*, 2018.
+
 
 ## Skills
 
