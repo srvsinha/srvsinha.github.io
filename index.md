@@ -24,6 +24,7 @@
 > Advisors: [Dr. Abhishek](https://home.iitk.ac.in/~abhish/){:target="_blank" rel="noopener"} and [Dr. Mangal Kothari](https://home.iitk.ac.in/~mangal/){:target="_blank" rel="noopener"}
 
 ## Projects
+
 ### 1. LPV/LFT Representation of Nonlinear Systems
 ```markdown
 in progress
@@ -32,7 +33,7 @@ in progress
 ```markdown
 in progress
 ```
-### 3. Robust H-Infinity Control of UASs 
+### 3. Robust H-Infinity Control of UAS 
 ```markdown
 in progress
 ```
@@ -43,6 +44,16 @@ in progress
 ### 5. Critical Attack Points in Cyber Physical Systems 
 ```markdown
 in progress
+```
+
+### 6. Development of a Novel Quadrotor Convertiplane UAS
+```markdown
+in progress
+Publication 1: A. Abhishek, M. Krishna, **S. Sinha**, J. Bhowmik, and D.  Das, “Design, development and flight testing of a novel 
+quadrotor convertiplane unmanned air vehicle,” *Vertical Flight Society Annual Forum*, 2017.
+
+Publication 2: **S. Sinha**, N. Raj, A. Abhishek, and M. Kothari, “Flight dynamic modeling and control of a novel quadrotor convertiplane
+ UAV,” *Vertical Flight Society Annual Forum*, 2018.
 ```
 
 ## Skills
