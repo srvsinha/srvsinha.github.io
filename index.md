@@ -26,13 +26,14 @@
 ## Projects
 
 ### 1. LPV/LFT Representation of Nonlinear Systems
-```markdown
-in progress
-```
+- Publication: **S. Sinha**, D. Muniraj, and M. Farhood, “LFT Representation of a Class of Nonlinear Systems: A Data-Driven 
+Approach,” *European Control Conference*, 2021.
+
 ### 2. IEMI-based Actuator Attacks 
-```markdown
-in progress
-```
+- Publication:  G.Y. Dayanikli, **S. Sinha**, D. Muniraj, R.M. Gerdes, M. Farhood, and M. Mina,  “Physical-Layer Attacks Against
+Pulse Width Modulation-Controlled Actuators,” *USENIX Security Symposium*, 2022.
+
+
 ### 3. Robust H-Infinity Control of UAS 
 ```markdown
 in progress
@@ -47,11 +48,11 @@ in progress
 ```
 
 ### 6. Development of a Novel Quadrotor Convertiplane UAS
-> Publication 1: A. Abhishek, M. Krishna, **S. Sinha**, J. Bhowmik, and D.  Das, “Design, development and flight testing of a novel 
-> quadrotor convertiplane unmanned air vehicle,” *Vertical Flight Society Annual Forum*, 2017.
+- Publication 1: A. Abhishek, M. Krishna, **S. Sinha**, J. Bhowmik, and D.  Das, “Design, development and flight testing of a novel 
+quadrotor convertiplane unmanned air vehicle,” *Vertical Flight Society Annual Forum*, 2017.
 
-> Publication 2: **S. Sinha**, N. Raj, A. Abhishek, and M. Kothari, “Flight dynamic modeling and control of a novel quadrotor convertiplane
-> UAV,” *Vertical Flight Society Annual Forum*, 2018.
+- Publication 2: **S. Sinha**, N. Raj, A. Abhishek, and M. Kothari, “Flight dynamic modeling and control of a novel quadrotor convertiplane
+UAV,” *Vertical Flight Society Annual Forum*, 2018.
 
 
 ## Skills
