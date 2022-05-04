@@ -45,7 +45,7 @@ in progress
 in progress
 
 ### 6. Development of a Novel Quadrotor Convertiplane UAS
-![](proto1.jpg){:height="150px"}  ![](proto2.jpg){:height="150px"} 
+![](Proto_1.png){:height="150px"}  ![](Proto_2.png){:height="150px"} 
 
 Publication 1: **S. Sinha**, N. Raj, A. Abhishek, and M. Kothari, “Flight dynamic modeling and control of a novel quadrotor convertiplane
 UAV,” *Vertical Flight Society Annual Forum*, 2018. [[link]](https://vtol.org/store/product/flight-dynamic-modeling-and-control-of-a-novel-quadrotor-convertiplane-unmanned-aerial-vehicle-12923.cfm)
