@@ -1,5 +1,5 @@
 # Sourav Sinha
-![](dp.jpg){:height="360px" width="360px"}
+![](dp.jpg){:height="180px" width="180px"}
 >
 > Aerospace Engineer (Control Theory, Unmanned Aerial Systems)  \
 > **Current**: Ph.D. Candidate and GRA @ Virginia Tech  \
