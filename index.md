@@ -45,13 +45,26 @@ in progress
 in progress
 
 ### 6. Development of a Novel Quadrotor Convertiplane UAS
-![](Proto_1.png){:height="150px"}  ![](Proto_2.png){:height="150px"} 
+![](modes.png){:height="180px"}
+
+![](Proto_1.png){:height="180px"}  ![](Proto_2.png){:height="180px"} 
 
 Publication 1: **S. Sinha**, N. Raj, A. Abhishek, and M. Kothari, “Flight dynamic modeling and control of a novel quadrotor convertiplane
-UAV,” *Vertical Flight Society Annual Forum*, 2018. [[link]](https://vtol.org/store/product/flight-dynamic-modeling-and-control-of-a-novel-quadrotor-convertiplane-unmanned-aerial-vehicle-12923.cfm)
+UAV,” *Vertical Flight Society Annual Forum*, 2018. [[link]](https://vtol.org/store/product/flight-dynamic-modeling-and-control-of-a-novel-quadrotor-convertiplane-unmanned-aerial-vehicle-12923.cfm) [[free access]](https://drive.google.com/file/d/1fmOD_L53s9XE-H2bPnjCyeU2oyTmXIJg/view)
 
 Publication 2: A. Abhishek, M. Krishna, **S. Sinha**, J. Bhowmik, and D.  Das, “Design, development and flight testing of a novel 
 quadrotor convertiplane unmanned air vehicle,” *Vertical Flight Society Annual Forum*, 2017. [[link]](https://www.researchgate.net/profile/Abhishek-Abhishek/publication/317380270_Design_Development_and_Flight_Testing_of_a_Novel_Quadrotor_Convertiplane_Unmanned_Air_Vehicle/links/5937c39faca272ede1cf7d1f/Design-Development-and-Flight-Testing-of-a-Novel-Quadrotor-Convertiplane-Unmanned-Air-Vehicle.pdf)
+
+### 7. 24-hour Hovering Helicopter, AHS Student Design Competition, 2017
+[Report](https://www.researchgate.net/publication/321319875_Conceptual_Design_of_a_24_Hour_Hovering_Helicopter)
+![](heimdall.png){:width="360px"}
+
+### 8. Reconfigurable VTOL Aircraft, AHS Student Design Competition, 2018
+[Report](https://drive.google.com/file/d/1re7lg5xXxY8fxJJ30L2hojX8llk2CRYZ/view)
+![](AHS18.png){:width="360px"}
+
+### 9. Premliminary Design of Aircraft
+[Report](https://www.researchgate.net/publication/321107730_Designing_of_an_aircraft_based_on_preliminary_mission_requirement)
 
 
 
