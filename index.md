@@ -31,9 +31,9 @@ Approach,” *European Control Conference*, 2021. [[link]](https://ieeexplore.ie
 
 
 ### 2. IEMI-based Actuator Attacks 
-![] (InFlightSystemv2.png)
+![](InFlightSystemv2.png)
 
-![] (IEMIattack.png)
+![](IEMIattack.png)
 Publication: G.Y. Dayanikli, **S. Sinha**, D. Muniraj, R.M. Gerdes, M. Farhood, and M. Mina,  “Physical-Layer Attacks Against
 Pulse Width Modulation-Controlled Actuators,” *USENIX Security Symposium*, 2022. [[link]](https://www.usenix.org/conference/usenixsecurity22/presentation/dayanikli)
 
