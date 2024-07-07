@@ -33,14 +33,37 @@
 ## Projects
 
 ### 1. Neural Network‑based Approximation of Nonlinear Systems in Koopman Form
-![](BilinearRNN.jpg)
 
-### 1. LPV/LFT Representation of Nonlinear Systems
-Publication: **S. Sinha**, D. Muniraj, and M. Farhood, “LFT Representation of a Class of Nonlinear Systems: A Data-Driven 
-Approach,” *European Control Conference*, 2021. [[link]](https://ieeexplore.ieee.org/abstract/document/9655026) 
+Description: This work utilizes the Koopman operator theory to approximate nonlinear dynamical systems with bilinear and linear parameter‑varying systems. We develop a recurrent neural network (RNN) architecture using PyTorch to learn the systems and characterize uncertain initial conditions. Neural network weights are parameterized a priori to ensure stable and norm‑bounded system behavior. Robust controllers for nonlinear systems are designed based on learned models.
+
+![](BilinearRNN.PNG)
+
+Publication 1: **S. Sinha** and M. Farhood, ``Koopman Operator Based Robustness Analysis and Control Design for Nonlinear Systems with Uncertain Initial Condition," *Under Review*, 2024.
+
+Publication 2: **S. Sinha** and M. Farhood, ``Koopman Operator Based Approximation of Nonlinear Systems Using Coprime Factorization," *Under Preparation*, 2024.
 
 
-### 2. IEMI-based Actuator Attacks 
+### 2. Robust Control Design for Autonomous Underwater Vehicles (AUVs)
+
+Description: This work provides an integral quadratic constraint-based analysis framework, developed for synthesizing and analyzing robust, path-following controllers for AUVs. We apply deep learning techniques with PyTorch to model the hydrodynamics of an AUV using a feedforward neural network. Controllers are tuned using an automated tuning routine that quickly refines an initial controller, yielding one with significantly enhanced robust performance. The controllers are implemented on the AUV platform using C++ and comprehensive underwater experiments are conducted in Claytor Lake, Virginia, USA to validate the controllers.
+
+![](VT690_Pic.jpg)
+![](AUVblockdiag.PNG)
+![](AUV_fieldresult.PNG)
+
+
+Publication 1: **Sourav Sinha**, Mazen Farhood, and Daniel J. Stilwell, ``Control Design and Analysis for Autonomous Underwater Vehicles Using Integral Quadratic Constraint," *Accepted to Control Engineering Practice*, 2024.
+
+Publication 2: **Sourav Sinha**, Mazen Farhood, and Daniel J. Stilwell, ``Robust Path Following Control of Autonomous Underwater Vehicles via Gain Scheduling and Integral Quadratic Constraints," *Under Review*, 2024.
+
+### 3. Adversarial Attacks on Object Tracking
+coming soon
+
+### 4. Critical Attack Points in Cyber-Physical Systems 
+coming soon
+
+
+### 5. Intentional EMI-based Actuator Attacks 
 ![](InFlightSystemv2.png)
 
 ![](IEMIattack.PNG){:height="360px"}
@@ -48,17 +71,18 @@ Approach,” *European Control Conference*, 2021. [[link]](https://ieeexplore.ie
 Publication: G.Y. Dayanikli, **S. Sinha**, D. Muniraj, R.M. Gerdes, M. Farhood, and M. Mina,  “Physical-Layer Attacks Against
 Pulse Width Modulation-Controlled Actuators,” *USENIX Security Symposium*, 2022. [[link]](https://www.usenix.org/conference/usenixsecurity22/presentation/dayanikli)
 
+### 6. Video Deepfake Detection Using Deep Learning 
+coming soon
 
-### 3. Robust H-Infinity Control of UAS 
-in progress
+### 7. LPV/LFT Representation of Nonlinear Systems
+Publication: **S. Sinha**, D. Muniraj, and M. Farhood, “LFT Representation of a Class of Nonlinear Systems: A Data-Driven 
+Approach,” *European Control Conference*, 2021. [[link]](https://ieeexplore.ieee.org/abstract/document/9655026) 
 
-### 4. Critical Attack Points in Cyber Physical Systems 
-in progress
+### 8. Robust Control of UAS 
+coming soon
 
-### 5. Adversarial Attacks on Object Tracking
-in progress
 
-### 6. Development of a Novel Quadrotor Convertiplane UAS
+### 9. Development of a Novel Quadrotor Convertiplane UAS
 ![](modes.png){:height="180px"}
 
 ![](Proto_1.png){:height="180px"}  ![](Proto_2.png){:height="180px"} 
@@ -69,15 +93,15 @@ UAV,” *Vertical Flight Society Annual Forum*, 2018. [[link]](https://vtol.org/
 Publication 2: A. Abhishek, M. Krishna, **S. Sinha**, J. Bhowmik, and D.  Das, “Design, development and flight testing of a novel 
 quadrotor convertiplane unmanned air vehicle,” *Vertical Flight Society Annual Forum*, 2017. [[link]](https://www.researchgate.net/profile/Abhishek-Abhishek/publication/317380270_Design_Development_and_Flight_Testing_of_a_Novel_Quadrotor_Convertiplane_Unmanned_Air_Vehicle/links/5937c39faca272ede1cf7d1f/Design-Development-and-Flight-Testing-of-a-Novel-Quadrotor-Convertiplane-Unmanned-Air-Vehicle.pdf)
 
-### 7. 24-hour Hovering Helicopter, AHS Student Design Competition, 2017
+### 10. 24-hour Hovering Helicopter, AHS Student Design Competition, 2017
 [Report](https://www.researchgate.net/publication/321319875_Conceptual_Design_of_a_24_Hour_Hovering_Helicopter)
 ![](heimdall.png){:width="360px"}
 
-### 8. Reconfigurable VTOL Aircraft, AHS Student Design Competition, 2018
+### 11. Reconfigurable VTOL Aircraft, AHS Student Design Competition, 2018
 [Report](https://drive.google.com/file/d/1re7lg5xXxY8fxJJ30L2hojX8llk2CRYZ/view)
 ![](AHS18.png){:width="360px"}
 
-### 9. Premliminary Design of Aircraft
+### 12. Preliminary Design of an Aircraft
 [Report](https://www.researchgate.net/publication/321107730_Designing_of_an_aircraft_based_on_preliminary_mission_requirement)
 
 
