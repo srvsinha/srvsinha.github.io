@@ -1,29 +1,39 @@
 # Sourav Sinha
-![](dp.jpg){:height="180px" width="180px"}
+![](dp2.jpg){:height="180px" width="180px"}
 >
-> Aerospace Engineer (Control Theory, Unmanned Aerial Systems)  \
-> **Current**: Ph.D. Candidate and GRA @ Virginia Tech  \
-> **Previous**: IIT Kanpur
+> Aerospace Engineer (Control Theory, Unmanned Aerial Systems, Deep Learning)  \
+> **Current**: Ph.D. Candidate and Graduate Research Assistant @ Virginia Tech  \
+> **Previous**: Graduate Teaching Assistant @ Virginia Tech | Research Intern @ NYU Tandon School of Engineering
 
 
 [Google Scholar profile](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897){:target="_blank" rel="noopener"}  
 [ResearchGate profile](https://www.researchgate.net/profile/Sourav-Sinha-8){:target="_blank" rel="noopener"}
 
-
 ## Education
-#### Virginia Tech, *Blacksburg, US,* 2019-2023 (tentative)
+#### Virginia Tech, *Blacksburg, US,* 2019-2024 (tentative)
 >
 > Ph.D. in Aerospace Engineering \
 > GPA: 4.0/4.0 \
 > Advisor: [Dr. Mazen Farhood](http://www.dept.aoe.vt.edu/~farhood/Main.html){:target="_blank" rel="noopener"}
 
-#### IIT Kanpur, *Kanpur, India,* 2014-2019
+####  Indian Institute of Technology (IIT) Kanpur, *Kanpur, India,* 2014-2019
 >
-> Integrated B.Tech.-M.Tech. in Aerospace Engineering  \
+> Integrated B.Tech-M.Tech in Aerospace Engineering  \
 > GPA: 8.2/10.0 (B.Tech), 9.33/10.0 (M.Tech) \
 > Advisors: [Dr. Abhishek](https://home.iitk.ac.in/~abhish/){:target="_blank" rel="noopener"} and [Dr. Mangal Kothari](https://home.iitk.ac.in/~mangal/){:target="_blank" rel="noopener"}
 
+
+## Technical Skills
+#### Programming Languages: 
+> Python, MATLAB, Familiar with C++
+#### Miscellaneous:
+> Github, Jupyter, Google Colab, LaTeX, Simulink, LabVIEW, Microsoft Office, Pixhawk, Arduino, Raspberry Pi
+
+
 ## Projects
+
+### 1. Neural Network‑based Approximation of Nonlinear Systems in Koopman Form
+![](BilinearRNN.jpg)
 
 ### 1. LPV/LFT Representation of Nonlinear Systems
 Publication: **S. Sinha**, D. Muniraj, and M. Farhood, “LFT Representation of a Class of Nonlinear Systems: A Data-Driven 
@@ -72,19 +82,19 @@ quadrotor convertiplane unmanned air vehicle,” *Vertical Flight Society Annual
 
 
 
-## Skills
 
-## Courses
+
+## Coursework
 >
 > Dynamics and Controls
 > > Linear Systems Theory, Nonlinear Systems Theory, Vehicle Dynamics and Control, Linear Control Theory
-> > Autonomous Navigation, Missile Guidance and Dynamics, Control System Analysis, Basics of Modern Control Design, Flight Mechanics
+> > Autonomous Navigation, Control System Analysis, Convex Optimization
 
 > Machine Learning
-> > Deep Learning, Convex Optimization, Computer Vision
+> > Deep Learning, Computer Vision
 
 > Aircraft
-> > Aircraft Design, Helicopter Theory, Preliminary Design of Helicopter, Autononmous Unmanned Aerial Systems, Aeromodel Design and Fabrication
+> > Aircraft Design, Helicopter Theory, Preliminary Design of Helicopter, Autononmous Unmanned Aerial Systems, Aeromodel Design and Fabrication, Flight Mechanics
 
 
 ## Contact
