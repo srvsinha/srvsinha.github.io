@@ -1,16 +1,15 @@
 # Sourav Sinha
 ![](dp2.jpg){:height="180px" width="180px"}
 >
-> Aerospace Engineer (Control Theory, Unmanned Aerial Systems, Deep Learning)  \
-> **Current**: Ph.D. Candidate and Graduate Research Assistant @ Virginia Tech  \
-> **Previous**: Graduate Teaching Assistant @ Virginia Tech | Research Intern @ NYU Tandon School of Engineering
+> **Current**: Senior Engineer in EDG @ The MathWorks, Inc.  \
+> **Previous**: Graduate Research Assistant @ Virginia Tech | Graduate Teaching Assistant @ Virginia Tech | Research Intern @ NYU Tandon School of Engineering
 
 
 [Google Scholar profile](https://scholar.google.co.in/citations?user=lNqewX0AAAAJ&hl=en&inst=13410158990364976897){:target="_blank" rel="noopener"}  
 [ResearchGate profile](https://www.researchgate.net/profile/Sourav-Sinha-8){:target="_blank" rel="noopener"}
 
 ## Education
-#### Virginia Tech, *Blacksburg, US,* 2019-2024 (tentative)
+#### Virginia Tech, *Blacksburg, US,* 2019-2024
 >
 > Ph.D. in Aerospace Engineering \
 > GPA: 4.0/4.0 \
@@ -25,9 +24,9 @@
 
 ## Technical Skills
 #### Programming Languages: 
-> Python, MATLAB, Familiar with C++
+> MATLAB, Python, C++
 #### Miscellaneous:
-> Github, Jupyter, Google Colab, LaTeX, Simulink, LabVIEW, Microsoft Office, Pixhawk, Arduino, Raspberry Pi
+> Simulink, Github, Jupyter, Google Colab, LaTeX, LabVIEW, Microsoft Office, Pixhawk, Arduino, Raspberry Pi
 
 
 ## Projects
@@ -38,23 +37,23 @@ Description: This work utilizes the Koopman operator theory to approximate nonli
 
 ![](BilinearRNN.PNG)
 
-Publication 1: **S. Sinha** and M. Farhood, ``Koopman Operator Based Robustness Analysis and Control Design for Nonlinear Systems with Uncertain Initial Condition," *Under Review*, 2024.
+Publication 1: **S. Sinha** and M. Farhood, ``Robust Control Design and Analysis for Nonlinear Systems with Uncertain Initial Conditions Based on Lifting Linearization," *Submitted*, 2025.
 
-Publication 2: **S. Sinha** and M. Farhood, ``Koopman Operator Based Approximation of Nonlinear Systems Using Coprime Factorization," *Under Preparation*, 2024.
+Publication 2: **S. Sinha** and M. Farhood, ``Data-Driven Discrepancy Modeling in Higher-Dimensional State Space via Coprime Factorization," *Submitted*, 2025.
 
 
 ### 2. Robust Control Design for Autonomous Underwater Vehicles (AUVs)
 
-Description: This work provides an integral quadratic constraint-based analysis framework, developed for synthesizing and analyzing robust, path-following controllers for AUVs. We apply deep learning techniques with PyTorch to model the hydrodynamics of an AUV using a feedforward neural network. Controllers are tuned using an automated tuning routine that quickly refines an initial controller, yielding one with significantly enhanced robust performance. The controllers are implemented on the AUV platform using C++ and comprehensive underwater experiments are conducted in Claytor Lake, Virginia, USA to validate the controllers.
+Description: This work provides an integral quadratic constraint-based analysis framework developed for synthesizing and analyzing robust, path-following controllers for AUVs. We apply deep learning techniques with PyTorch to model the hydrodynamics of an AUV using a feedforward neural network. Controllers are tuned using an automated tuning routine that quickly refines an initial controller, yielding one with significantly enhanced robust performance. The controllers are implemented on the AUV platform using C++, and comprehensive underwater experiments are conducted in Claytor Lake, Virginia, USA, to validate the controllers.
 
 ![](VT690_Pic.jpg)
 ![](AUVblockdiag.PNG)
 ![](AUV_fieldresult.PNG)
 
 
-Publication 1: **Sourav Sinha**, Mazen Farhood, and Daniel J. Stilwell, ``Control Design and Analysis for Autonomous Underwater Vehicles Using Integral Quadratic Constraint," *Accepted to Control Engineering Practice*, 2024.
+Publication 1: **Sourav Sinha**, Mazen Farhood, and Daniel J. Stilwell, ``Control Design and Analysis for Autonomous Underwater Vehicles Using Integral Quadratic Constraint," *Control Engineering Practice*, 2025. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0967066124003010)
 
-Publication 2: **Sourav Sinha**, Mazen Farhood, and Daniel J. Stilwell, ``Robust Path Following Control of Autonomous Underwater Vehicles via Gain Scheduling and Integral Quadratic Constraints," *Under Review*, 2024.
+Publication 2: **Sourav Sinha**, Mazen Farhood, and Daniel J. Stilwell, ``Robust Path Following Control of Autonomous Underwater Vehicles via Gain Scheduling and Integral Quadratic Constraints," *IEEE Conference on Decision and Control*, 2024. [[link]](https://ieeexplore-ieee-org.ezproxy.lib.vt.edu/document/10886214)
 
 ### 3. Adversarial Attacks on Object Tracking
 coming soon
